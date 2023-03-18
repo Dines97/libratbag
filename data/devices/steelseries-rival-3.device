@@ -1,0 +1,12 @@
+[Device]
+Name=SteelSeries Rival 3
+DeviceMatch=usb:1038:1824
+Driver=steelseries
+DeviceType=mouse
+
+[Driver/steelseries]
+DeviceVersion=1
+Buttons=6
+Leds=3
+DpiRange=200:8500@100
+MacroLength=1
